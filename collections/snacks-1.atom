@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkbuywholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkbuywholesale.ca/collections/snacks-1.atom"/>
+  <title>Bulk Buy Wholesale</title>
+  <updated>2021-08-11T11:03:41-06:00</updated>
+  <author>
+    <name>Bulk Buy Wholesale</name>
+  </author>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028189069499</id>
+    <published>2021-08-11T11:03:41-06:00</published>
+    <updated>2021-08-11T11:03:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/cabin-biscuits"/>
+    <title>CABIN BISCUITS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028189069499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6156000048086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188872891</id>
+    <published>2021-08-11T11:03:39-06:00</published>
+    <updated>2021-08-11T11:03:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/timtem-donkwa"/>
+    <title>TIMTEM- DONKWA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188872891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6156000034270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188840123</id>
+    <published>2021-08-11T11:03:39-06:00</published>
+    <updated>2021-08-11T11:03:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/peanut-cocktail"/>
+    <title>PEANUT COCKTAIL</title>
+    <s:type></s:type>
+    <s:vendor>timtem</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>timtem<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188840123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6156000034249</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188774587</id>
+    <published>2021-08-11T11:03:38-06:00</published>
+    <updated>2021-08-11T11:03:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/timtem-kulikuli"/>
+    <title>TIMTEM- KULIKULI</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188774587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6156000034218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188709051</id>
+    <published>2021-08-11T11:03:38-06:00</published>
+    <updated>2021-08-11T11:03:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/peanut-510g-timtem"/>
+    <title>PEANUT 510g TIMTEM</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188709051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6156000034201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028186087611</id>
+    <published>2021-08-11T11:03:18-06:00</published>
+    <updated>2021-08-11T11:03:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/burger-peant"/>
+    <title>BURGER PEANT</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028186087611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6034000004007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184875195</id>
+    <published>2021-08-11T11:03:08-06:00</published>
+    <updated>2021-08-11T11:03:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/royalty-digestive-buscuit"/>
+    <title>Royalty Digestive Buscuit</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184875195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5032619900582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184809659</id>
+    <published>2021-08-11T11:03:07-06:00</published>
+    <updated>2021-08-11T11:03:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/royalty-butter-shortbread"/>
+    <title>Royalty Butter Shortbread</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184809659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5032619900148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184744123</id>
+    <published>2021-08-11T11:03:06-06:00</published>
+    <updated>2021-08-11T11:03:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/royalty-rich-tea-cookies"/>
+    <title>Royalty Rich Tea Cookies</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184744123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5032619900100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184678587</id>
+    <published>2021-08-11T11:03:05-06:00</published>
+    <updated>2021-08-11T11:03:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/oaties-royalty-biscuit"/>
+    <title>OATIES ROYALTY BISCUIT</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184678587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5032619900063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028182515899</id>
+    <published>2021-08-11T11:02:50-06:00</published>
+    <updated>2021-08-11T11:02:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/mr-john-spicy"/>
+    <title>MR JOHN SPICY</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028182515899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>890187000333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028182483131</id>
+    <published>2021-08-11T11:02:49-06:00</published>
+    <updated>2021-08-11T11:02:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/mr-john-plantain-chips-spicy"/>
+    <title>Mr John Plantain Chips spicy</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028182483131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>890187000258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028182417595</id>
+    <published>2021-08-11T11:02:48-06:00</published>
+    <updated>2021-08-11T11:02:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/mr-john-plantain-chips-regular"/>
+    <title>Mr John Plantain Chips Regular</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028182417595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>890187000241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028181729467</id>
+    <published>2021-08-11T11:02:44-06:00</published>
+    <updated>2021-08-11T11:02:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/kings-delight-peanut-buger"/>
+    <title>Kings Delight Peanut Buger</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028181729467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>797648976100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028181663931</id>
+    <published>2021-08-11T11:02:43-06:00</published>
+    <updated>2021-08-11T11:02:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/go-chips-green"/>
+    <title>GO CHIPS GREEN</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028181663931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>784099878107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028181598395</id>
+    <published>2021-08-11T11:02:43-06:00</published>
+    <updated>2021-08-11T11:02:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/go-chips-spicy"/>
+    <title>GO CHIPS SPICY</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028181598395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>784099878091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028181205179</id>
+    <published>2021-08-11T11:02:40-06:00</published>
+    <updated>2021-08-11T11:02:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/ovaltine-cookies"/>
+    <title>Ovaltine Cookies</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028181205179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>752046793704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028178190523</id>
+    <published>2021-08-11T11:02:14-06:00</published>
+    <updated>2021-08-11T11:02:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/the-noble-plantain-chips-green"/>
+    <title>The Noble Plantain Chips-Green</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028178190523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>627987237474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028178092219</id>
+    <published>2021-08-11T11:02:13-06:00</published>
+    <updated>2021-08-11T11:02:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/the-noble-chips-spicy"/>
+    <title>The Noble Chips Spicy</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028178092219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>627987237412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028178059451</id>
+    <published>2021-08-11T11:02:13-06:00</published>
+    <updated>2021-08-11T11:02:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/the-noble-plantain-chips-sweet"/>
+    <title>The Noble Plantain Chips Sweet</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028178059451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>627987237405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028177633467</id>
+    <published>2021-08-11T11:02:10-06:00</published>
+    <updated>2021-08-11T11:02:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/chinchin-beerain"/>
+    <title>ChinChin Beerain</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028177633467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>627843549680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028176912571</id>
+    <published>2021-08-11T11:02:03-06:00</published>
+    <updated>2021-08-11T11:02:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/peanut-groundnut"/>
+    <title>Peanut (Groundnut)</title>
+    <s:type></s:type>
+    <s:vendor>Bistak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bistak<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028176912571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000PEANUTGRN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028173177019</id>
+    <published>2021-08-11T11:01:33-06:00</published>
+    <updated>2021-08-11T11:01:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/shortbread-mcvities"/>
+    <title>SHORTBREAD MCVITIES</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028173177019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>59290367928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028173111483</id>
+    <published>2021-08-11T11:01:32-06:00</published>
+    <updated>2021-08-11T11:01:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/digetive-mcvities"/>
+    <title>DIGETIVE MCVITIES</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028173111483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>59290311877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028168753339</id>
+    <published>2021-08-11T11:00:51-06:00</published>
+    <updated>2021-08-11T11:00:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/water-crackers"/>
+    <title>WATER CRACKERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028168753339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>52836140603</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

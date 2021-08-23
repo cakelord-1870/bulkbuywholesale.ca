@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkbuywholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkbuywholesale.ca/collections/beverages-drinks.atom"/>
+  <title>Bulk Buy Wholesale</title>
+  <updated>2021-08-11T11:04:11-06:00</updated>
+  <author>
+    <name>Bulk Buy Wholesale</name>
+  </author>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028192641211</id>
+    <published>2021-08-11T11:04:11-06:00</published>
+    <updated>2021-08-11T11:04:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/fruiti-o-mixed-fruit"/>
+    <title>Fruiti-O Mixed Fruit</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028192641211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8964000022634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028185137339</id>
+    <published>2021-08-11T11:03:09-06:00</published>
+    <updated>2021-08-11T11:03:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/lacasera"/>
+    <title>LaCasera</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028185137339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5060626030008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184973499</id>
+    <published>2021-08-11T11:03:08-06:00</published>
+    <updated>2021-08-11T11:03:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/lucozade"/>
+    <title>LUCOZADE</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184973499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5054267008533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184449211</id>
+    <published>2021-08-11T11:03:04-06:00</published>
+    <updated>2021-08-11T11:03:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltina-pineaple"/>
+    <title>Maltina Pineaple</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184449211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5025866001775</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184350907</id>
+    <published>2021-08-11T11:03:03-06:00</published>
+    <updated>2021-08-11T11:03:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltina-classic"/>
+    <title>Maltina Classic</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184350907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5025866000211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184318139</id>
+    <published>2021-08-11T11:03:03-06:00</published>
+    <updated>2021-08-11T11:03:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/amstel-malt-drink"/>
+    <title>AMSTEL MALT DRINK</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184318139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5025866000075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028180811963</id>
+    <published>2021-08-11T11:02:37-06:00</published>
+    <updated>2021-08-11T11:02:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/vitamalt-ginger"/>
+    <title>Vitamalt Ginger</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028180811963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>737297000177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028180713659</id>
+    <published>2021-08-11T11:02:36-06:00</published>
+    <updated>2021-08-11T11:02:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/vitamalt-classic"/>
+    <title>Vitamalt</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028180713659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>737297000085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028177240251</id>
+    <published>2021-08-11T11:02:07-06:00</published>
+    <updated>2021-08-11T11:02:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/arbella-spaghetti"/>
+    <title>ARBELLA SPAGHETTI</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028177240251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>194899000095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028176978107</id>
+    <published>2021-08-11T11:02:04-06:00</published>
+    <updated>2021-08-11T11:02:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/powermalt"/>
+    <title>POWERMALT</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028176978107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000POWERMALT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028176879803</id>
+    <published>2021-08-11T11:02:03-06:00</published>
+    <updated>2021-08-11T11:02:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltex-pack"/>
+    <title>MALTEX PACK</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028176879803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000MALTEX PAC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028174127291</id>
+    <published>2021-08-11T11:01:41-06:00</published>
+    <updated>2021-08-11T11:01:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/purelife-spring-water"/>
+    <title>PURELIFE SPRING WATER</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028174127291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>68274000072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028166361275</id>
+    <published>2021-08-11T11:00:30-06:00</published>
+    <updated>2021-08-11T11:00:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltina"/>
+    <title>MALTINA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028166361275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000MALTINA6P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028166295739</id>
+    <published>2021-08-11T11:00:29-06:00</published>
+    <updated>2021-08-11T11:00:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/malta-guiness"/>
+    <title>MALTA GUINESS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028166295739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000MALTAGUIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028166262971</id>
+    <published>2021-08-11T11:00:29-06:00</published>
+    <updated>2021-08-11T11:00:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/mackerel"/>
+    <title>MACKEREL</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028166262971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000MACKEREL1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028165378235</id>
+    <published>2021-08-11T11:00:21-06:00</published>
+    <updated>2021-08-11T11:00:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltex"/>
+    <title>MALTEX</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028165378235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8361255978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028165312699</id>
+    <published>2021-08-11T11:00:20-06:00</published>
+    <updated>2021-08-11T11:00:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/power-malt"/>
+    <title>POWER MALT</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028165312699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8361003579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028164100283</id>
+    <published>2021-08-11T11:00:11-06:00</published>
+    <updated>2021-08-11T11:00:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltina-case"/>
+    <title>MALTINA CASE</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028164100283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000MALTINA24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028162724027</id>
+    <published>2021-08-11T10:59:59-06:00</published>
+    <updated>2021-08-11T10:59:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/vitamalt-case"/>
+    <title>Vitamalt Case</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028162724027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000VITAMALT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028161839291</id>
+    <published>2021-08-11T10:59:52-06:00</published>
+    <updated>2021-08-11T10:59:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/maltex-1-2-case-12pc"/>
+    <title>MALTEX 1/2 CASE 12PC</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028161839291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000MALTEX1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028160528571</id>
+    <published>2021-08-11T10:59:40-06:00</published>
+    <updated>2021-08-11T10:59:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/amstel-malt-24"/>
+    <title>AMSTEL MALT 24</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028160528571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000AMSTEL2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028159479995</id>
+    <published>2021-08-11T10:59:32-06:00</published>
+    <updated>2021-08-11T10:59:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/schweppes"/>
+    <title>SCHWEPPES</title>
+    <s:type></s:type>
+    <s:vendor>Cocacola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cocacola<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028159479995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000000SCHEW3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028158365883</id>
+    <published>2021-08-11T10:59:23-06:00</published>
+    <updated>2021-08-11T10:59:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/fanta"/>
+    <title>FANTA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028158365883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000000FANTA50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028157907131</id>
+    <published>2021-08-11T10:59:19-06:00</published>
+    <updated>2021-08-11T10:59:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/amstel-malt"/>
+    <title>AMSTEL MALT</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028157907131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000000AMSTEL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028157776059</id>
+    <published>2021-08-11T10:59:18-06:00</published>
+    <updated>2021-08-11T10:59:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/canada-dry"/>
+    <title>Canada Dry</title>
+    <s:type></s:type>
+    <s:vendor>Ginger Ale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ginger Ale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverages &amp; Drinks</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028157776059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6221010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

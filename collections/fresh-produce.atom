@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkbuywholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkbuywholesale.ca/collections/fresh-produce.atom"/>
+  <title>Bulk Buy Wholesale</title>
+  <updated>2021-08-11T11:04:15-06:00</updated>
+  <author>
+    <name>Bulk Buy Wholesale</name>
+  </author>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028193394875</id>
+    <published>2021-08-11T11:04:15-06:00</published>
+    <updated>2021-08-11T11:04:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/plantain-case"/>
+    <title>PLANTAIN CASE</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028193394875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0PLANTAIN CAS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028167311547</id>
+    <published>2021-08-11T11:00:37-06:00</published>
+    <updated>2021-08-11T11:00:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/tatase-mixed-pepper"/>
+    <title>TATASE MIXED PEPPER</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028167311547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000TATASE10L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028165443771</id>
+    <published>2021-08-11T11:00:22-06:00</published>
+    <updated>2021-08-11T11:00:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/bell-red-peppers"/>
+    <title>Bell Red Peppers</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028165443771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000BELLPEPPE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028163248315</id>
+    <published>2021-08-11T11:00:03-06:00</published>
+    <updated>2021-08-11T11:00:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/red-bell-peppers"/>
+    <title>RED BELL PEPPERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028163248315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000BELLPEPE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028162822331</id>
+    <published>2021-08-11T11:00:00-06:00</published>
+    <updated>2021-08-11T11:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/water-yam-ewura"/>
+    <title>WATER YAM/EWURA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028162822331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000WATERYA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028162625723</id>
+    <published>2021-08-11T10:59:58-06:00</published>
+    <updated>2021-08-11T10:59:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/roma-tomato"/>
+    <title>ROMA TOMATO</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028162625723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000TOMATOE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028162035899</id>
+    <published>2021-08-11T10:59:54-06:00</published>
+    <updated>2021-08-11T10:59:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/plantain-per-lb"/>
+    <title>PLANTAIN PER LB</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028162035899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000PLANTAIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028160004283</id>
+    <published>2021-08-11T10:59:36-06:00</published>
+    <updated>2021-08-11T10:59:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/yam-half-box"/>
+    <title>YAM HALF BOX</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028160004283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000000YAMHAL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028159938747</id>
+    <published>2021-08-11T10:59:35-06:00</published>
+    <updated>2021-08-11T10:59:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/yam-frozen"/>
+    <title>Yam (Frozen)</title>
+    <s:type></s:type>
+    <s:vendor>Hello Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hello Foods<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028159938747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000000YAMCUB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028157481147</id>
+    <published>2021-08-11T10:59:16-06:00</published>
+    <updated>2021-08-11T10:59:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/yam-box"/>
+    <title>YAM BOX</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028157481147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000000YAMBO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028157448379</id>
+    <published>2021-08-11T10:59:16-06:00</published>
+    <updated>2021-08-11T10:59:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/yam"/>
+    <title>YAM</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028157448379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000000YAM1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028157153467</id>
+    <published>2021-08-11T10:59:13-06:00</published>
+    <updated>2021-08-11T10:59:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/tatase-pepper"/>
+    <title>TATASE PEPPER</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028157153467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000000TATASE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028155809979</id>
+    <published>2021-08-11T10:59:02-06:00</published>
+    <updated>2021-08-11T10:59:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/habanero"/>
+    <title>HABANERO</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028155809979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000000HABAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028154630331</id>
+    <published>2021-08-11T10:58:52-06:00</published>
+    <updated>2021-08-11T10:58:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/plantain-half-case"/>
+    <title>PLANTAIN HALF CASE</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028154630331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000000PLANT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028154237115</id>
+    <published>2021-08-11T10:58:50-06:00</published>
+    <updated>2021-08-11T10:58:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/habanero-rodo"/>
+    <title>HABANERO/RODO</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Produce</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028154237115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000000HABA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

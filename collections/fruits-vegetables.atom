@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkbuywholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkbuywholesale.ca/collections/fruits-vegetables.atom"/>
+  <title>Bulk Buy Wholesale</title>
+  <updated>2021-08-11T10:59:40-06:00</updated>
+  <author>
+    <name>Bulk Buy Wholesale</name>
+  </author>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028160594107</id>
+    <published>2021-08-11T10:59:40-06:00</published>
+    <updated>2021-08-11T10:59:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/banana"/>
+    <title>BANANA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruits &amp; Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028160594107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>000000BANANA4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028158595259</id>
+    <published>2021-08-11T10:59:25-06:00</published>
+    <updated>2021-08-11T10:59:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/kale"/>
+    <title>KALE</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruits &amp; Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028158595259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000000KALE2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028155678907</id>
+    <published>2021-08-11T10:59:01-06:00</published>
+    <updated>2021-08-11T10:59:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/ginger-fresh"/>
+    <title>GINGER FRESH</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruits &amp; Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028155678907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000000GINGER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

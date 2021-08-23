@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkbuywholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkbuywholesale.ca/collections/super-foods.atom"/>
+  <title>Bulk Buy Wholesale</title>
+  <updated>2021-08-11T11:04:11-06:00</updated>
+  <author>
+    <name>Bulk Buy Wholesale</name>
+  </author>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028192706747</id>
+    <published>2021-08-11T11:04:11-06:00</published>
+    <updated>2021-08-11T11:04:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/coconut-powder"/>
+    <title>COCONUT POWDER</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028192706747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>9556181010082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028192346299</id>
+    <published>2021-08-11T11:04:08-06:00</published>
+    <updated>2021-08-11T11:04:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/apetamin-vitamins"/>
+    <title>Apetamin Vitamins</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028192346299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8908002671971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188250299</id>
+    <published>2021-08-11T11:03:34-06:00</published>
+    <updated>2021-08-11T11:03:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/rida-cleanser-cap"/>
+    <title>RIDA CLEANSER CAP</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188250299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6154000167110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188184763</id>
+    <published>2021-08-11T11:03:34-06:00</published>
+    <updated>2021-08-11T11:03:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/rida-fire-for-men-cap"/>
+    <title>RIDA FIRE FOR MEN CAP</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188184763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6154000167097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028188053691</id>
+    <published>2021-08-11T11:03:33-06:00</published>
+    <updated>2021-08-11T11:03:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/rida-herbal-supp-cap"/>
+    <title>RIDA Herbal Supp CAP</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028188053691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6154000167066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028187988155</id>
+    <published>2021-08-11T11:03:32-06:00</published>
+    <updated>2021-08-11T11:03:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/rida-herbal-bitters"/>
+    <title>RIDA HERBAL BITTERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028187988155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6154000167004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028186513595</id>
+    <published>2021-08-11T11:03:22-06:00</published>
+    <updated>2021-08-11T11:03:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/living-bitters"/>
+    <title>LIVING BITTERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028186513595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6034000157055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028186316987</id>
+    <published>2021-08-11T11:03:20-06:00</published>
+    <updated>2021-08-11T11:03:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/alomo-bitters"/>
+    <title>ALOMO Bitters</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028186316987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6034000083002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028186284219</id>
+    <published>2021-08-11T11:03:20-06:00</published>
+    <updated>2021-08-11T11:03:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/palm-drink"/>
+    <title>PALM DRINK</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028186284219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>6034000022032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028184055995</id>
+    <published>2021-08-11T11:03:00-06:00</published>
+    <updated>2021-08-11T11:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/orijin-bitters"/>
+    <title>ORIJIN BITTERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028184055995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5010103933599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028183957691</id>
+    <published>2021-08-11T11:03:00-06:00</published>
+    <updated>2021-08-11T11:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/origin-bitters"/>
+    <title>ORIGIN BITTERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028183957691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>5010103933582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028181762235</id>
+    <published>2021-08-11T11:02:44-06:00</published>
+    <updated>2021-08-11T11:02:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/mr-vigorous"/>
+    <title>MR. VIGOROUS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028181762235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>800244002521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028177404091</id>
+    <published>2021-08-11T11:02:08-06:00</published>
+    <updated>2021-08-11T11:02:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/kolaq-alagbo-bitters"/>
+    <title>KOLAQ ALAGBO BITTERS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028177404091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>608887045208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028176289979</id>
+    <published>2021-08-11T11:01:58-06:00</published>
+    <updated>2021-08-11T11:01:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/moringa-seed"/>
+    <title>MORINGA SEED</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028176289979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028176191675</id>
+    <published>2021-08-11T11:01:58-06:00</published>
+    <updated>2021-08-11T11:01:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/moringa-leaf"/>
+    <title>MORINGA LEAF</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028176191675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000837</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028176158907</id>
+    <published>2021-08-11T11:01:57-06:00</published>
+    <updated>2021-08-11T11:01:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/guinea-hen-weed"/>
+    <title>GUINEA HEN WEED</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028176158907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028175863995</id>
+    <published>2021-08-11T11:01:55-06:00</published>
+    <updated>2021-08-11T11:01:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/star-anise"/>
+    <title>STAR ANISE</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028175863995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028175798459</id>
+    <published>2021-08-11T11:01:54-06:00</published>
+    <updated>2021-08-11T11:01:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/sarsaparilla"/>
+    <title>SARSAPARILLA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028175798459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028175732923</id>
+    <published>2021-08-11T11:01:54-06:00</published>
+    <updated>2021-08-11T11:01:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/pimento"/>
+    <title>PIMENTO</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028175732923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028175634619</id>
+    <published>2021-08-11T11:01:53-06:00</published>
+    <updated>2021-08-11T11:01:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/isinglass"/>
+    <title>ISINGLASS</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028175634619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028175569083</id>
+    <published>2021-08-11T11:01:53-06:00</published>
+    <updated>2021-08-11T11:01:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/shew-stick"/>
+    <title>SHEW STICK</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028175569083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028175503547</id>
+    <published>2021-08-11T11:01:52-06:00</published>
+    <updated>2021-08-11T11:01:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/chaney-root"/>
+    <title>CHANEY ROOT</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028175503547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>95897000066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028166656187</id>
+    <published>2021-08-11T11:00:32-06:00</published>
+    <updated>2021-08-11T11:00:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/safu-pears"/>
+    <title>SAFU (PEARS)</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028166656187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000SAFU/PRUN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028165574843</id>
+    <published>2021-08-11T11:00:23-06:00</published>
+    <updated>2021-08-11T11:00:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/bitterkola"/>
+    <title>BITTERKOLA</title>
+    <s:type></s:type>
+    <s:vendor>Bulk Buy Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Buy Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028165574843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>0000BITTERKOL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkbuywholesale.ca/products/7028163707067</id>
+    <published>2021-08-11T11:00:08-06:00</published>
+    <updated>2021-08-11T11:00:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkbuywholesale.ca/products/honey-bee"/>
+    <title>HONEY BEE</title>
+    <s:type></s:type>
+    <s:vendor>Pure Honey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Honey<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Super Foods</s:tag>
+    <s:variant>
+      <id>https://bulkbuywholesale.ca/products/7028163707067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>00000HONEYS50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
